@@ -16,7 +16,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=purushotham011&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=purushotham011&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%; flex: 1 1 30%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushotham011&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 32%; flex: 1 1 auto;">
 </div>
 
 
