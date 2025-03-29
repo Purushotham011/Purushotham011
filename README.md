@@ -30,6 +30,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=purushotham011&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 32%; flex: 1 1 30%;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=purushotham011&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="max-width: 32%; flex: 1 1 30%;">
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
 <p align="left">
 <a href="https://linkedin.com/in/purushotham-b-8bb3131bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushotham-b-8bb3131bb" height="30" width="40" /></a>
@@ -39,11 +47,3 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=purushotham011&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Purushotham011/Purushotham011/output/github-snake.svg" />
-</picture>
