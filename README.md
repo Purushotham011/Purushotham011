@@ -38,12 +38,6 @@
   </picture>
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35"> Social :
-<p align="left">
-<a href="https://linkedin.com/in/purushotham-b-8bb3131bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushotham-b-8bb3131bb" height="30" width="40" /></a>
-<a href="https://instagram.com/purushotham_.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purushotham_.02" height="30" width="40" /></a>
-<a href="https://discord.gg/4sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4sain" height="30" width="40" /></a>
-</p>
 
 
 
